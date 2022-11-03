@@ -1,4 +1,2 @@
 
-
-  TST
-  APP
+# Container de uma aplicação Web.
